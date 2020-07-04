@@ -1,0 +1,37 @@
+*{
+    position: relative;
+    
+}
+body
+{
+    font-size: 16px;
+    color:black;
+    background: orange;
+    
+    font-family: default;
+}
+
+#header-nav{
+    background-color: white;
+    border-radius:0;
+}
+
+#nav-list{
+    margin-top: 10px;
+}
+
+#nav-list a {
+    text-align: center;
+    clear: left;
+}
+.navbar-header button.navbar-toggle{
+    
+}
+.navbar-toggle{
+    position: relative;
+}
+p
+{
+    font-size: 35px;
+    color:
+}
