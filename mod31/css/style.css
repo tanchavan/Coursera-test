@@ -32,6 +32,14 @@ body
 }
 p
 {
+    
     font-size: 35px;
     color:
+}
+.bold{
+    text-align: center;
+    background-color:gray;
+    font-size: 30px;
+}
+
 }
